@@ -1,0 +1,6 @@
+framework module HelloCountry {
+  umbrella header "HelloCountry.h"
+
+  export *
+  module * { export * }
+}
